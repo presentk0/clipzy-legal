@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 title: CLIPZY Legal
 description: CLIPZY 약관 및 개인정보처리방침
 show_downloads: false
+# 푸터 숨기기
+footer: false
