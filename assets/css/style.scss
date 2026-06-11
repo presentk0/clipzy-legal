@@ -3,26 +3,36 @@
 
 @import "{{ site.theme }}";
 
-/* 모든 테마의 푸터 숨기기 */
-footer,
+/* ============================================
+   Time Machine 테마 푸터/사이드바 숨기기
+   ============================================ */
+
+/* 우측 사이드바의 "maintained by" 부분 숨기기 */
+.sidebar,
+#sidebar,
 .site-footer,
-.footer,
-#footer,
-.page-footer,
-.main-footer {
+footer,
+.footer {
   display: none !important;
 }
 
-/* GitHub 링크/버튼 숨기기 */
-.btn[href*="github.com"],
-a[href*="github.com"].btn,
-.github-link,
-a[href*="github.com"] {
-  display: none !important;
-}
-
-/* 일부 테마의 "Hosted on GitHub Pages" 메시지 */
+/* "is maintained by" 텍스트 숨기기 */
+.owner,
 .credits,
 .attribution {
   display: none !important;
+}
+
+/* GitHub 관련 링크 숨기기 */
+a[href*="github.com"],
+.btn[href*="github.com"] {
+  display: none !important;
+}
+
+/* 메인 컨텐츠 너비 확장  */
+.inner,
+.main-content,
+section {
+  max-width: 100% !important;
+  width: 100% !important;
 }
