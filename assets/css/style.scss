@@ -3,10 +3,26 @@
 
 @import "{{ site.theme }}";
 
-.site-footer {
+/* 모든 테마의 푸터 숨기기 */
+footer,
+.site-footer,
+.footer,
+#footer,
+.page-footer,
+.main-footer {
   display: none !important;
 }
 
-.btn[href*="github.com"] {
+/* GitHub 링크/버튼 숨기기 */
+.btn[href*="github.com"],
+a[href*="github.com"].btn,
+.github-link,
+a[href*="github.com"] {
+  display: none !important;
+}
+
+/* 일부 테마의 "Hosted on GitHub Pages" 메시지 */
+.credits,
+.attribution {
   display: none !important;
 }
