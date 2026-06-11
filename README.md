@@ -44,9 +44,9 @@ layout: default
 
 ## 🔗 관련 링크
 
-- [CLIPZY 크롬 웹스토어](#)(https://chromewebstore.google.com/detail/clipzy/mcgnjdjgakffdoagkocfgemnmlndplai?hl=ko&authuser=0)
-- [개인정보처리방침](./privacy)
-- [서비스 이용약관](./terms)
+- [🛒 CLIPZY 크롬 웹스토어](https://chromewebstore.google.com/detail/clipzy/mcgnjdjgakffdoagkocfgemnmlndplai?hl=ko)
+- [🔒 개인정보처리방침](./privacy)
+- [📜 서비스 이용약관](./terms)
 
 ---
 
