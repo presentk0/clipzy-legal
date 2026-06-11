@@ -256,4 +256,4 @@ CLIPZY는 개인정보 처리에 관한 업무를 총괄하여 책임지고, 개
 
 ---
 
-[← 홈으로](/clipzy-legal/) | [이용약관 보기 →](/clipzy-legal/terms)
+[← 홈으로](index.html) | [이용약관 보기 →](terms.html)
