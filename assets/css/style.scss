@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-footer {
+  display: none !important;
+}
+
+.btn[href*="github.com"] {
+  display: none !important;
+}
