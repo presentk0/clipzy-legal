@@ -233,4 +233,4 @@ layout: default
 
 ---
 
-[← 홈으로](/clipzy-leagal/) | [개인정보처리방침 →](/clipzy-leagal/privacy)
+[← 홈으로](index.html) | [개인정보처리방침 →](privacy.html)
