@@ -1,6 +1,7 @@
 ---
-title: 서비스 이용약관
 layout: default
+title: 서비스 이용약관
+nav_order: 3
 ---
 
 # CLIPZY 서비스 이용약관
