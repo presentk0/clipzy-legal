@@ -1,6 +1,10 @@
-theme:  jekyll-theme-cayman
 title: CLIPZY Legal
 description: CLIPZY 약관 및 개인정보처리방침
+
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: light
+search_enabled: true
 show_downloads: false
 # 푸터 숨기기
 footer: false
