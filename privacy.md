@@ -1,6 +1,7 @@
 ---
-title: 개인정보처리방침
 layout: default
+title: 개인정보처리방침
+nav_order: 2
 ---
 
 # CLIPZY 개인정보처리방침
