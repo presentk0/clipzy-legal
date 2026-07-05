@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 홈
-nav_order: 1
 ---
 
 # 📚 CLIPZY 법적 문서
