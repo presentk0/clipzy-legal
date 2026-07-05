@@ -1,6 +1,7 @@
 ---
-title: CLIPZY Legal
 layout: default
+title: CLIPZY Legal
+nav_exclude: true    ← 사이드바에서 제외
 ---
 
 # 📚 CLIPZY 법적 문서
